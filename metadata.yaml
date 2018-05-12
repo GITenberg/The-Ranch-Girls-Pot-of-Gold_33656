@@ -1,0 +1,36 @@
+_repo: The-Ranch-Girls-Pot-of-Gold_33656
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Bodine, Hugh A.
+    alias: Bodine, H. A.
+    gutenberg_agent_id: '36386'
+    url: http://www.gutenberg.org/2009/agents/36386
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Vandercook, Margaret
+    birthdate: 1876
+    gutenberg_agent_id: '2838'
+    url: http://www.gutenberg.org/2009/agents/2838
+    wikipedia: http://en.wikipedia.org/wiki/Margaret_Vandercook
+description: ''
+gutenberg_issued: '2010-09-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33656'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Young women -- Social life and customs -- Juvenile fiction'
+- !lcsh 'Western stories'
+- !lcsh 'Ranch life -- Juvenile fiction'
+- !lcsh 'Gold mines and mining -- Juvenile fiction'
+- !lcsh 'Adventure and adventurers -- Juvenile fiction'
+title: The Ranch Girls' Pot of Gold
+url: http://www.gutenberg.org/ebooks/33656
