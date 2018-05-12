@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2838
     wikipedia: http://en.wikipedia.org/wiki/Margaret_Vandercook
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33656#The-Ranch-Girls-Pot-of-Gold
 gutenberg_issued: '2010-09-06'
 gutenberg_type: Text
 identifiers:
